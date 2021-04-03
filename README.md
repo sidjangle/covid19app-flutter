@@ -2,6 +2,9 @@
 
 https://youtu.be/jsj5IFiQHZA 
 watch full video
+<br>
+<img src='screenshot/welcome.png' width="400px"/>
+<img src='screenshot/home.png' width="400px"/>
 
 
 ## Getting Started
