@@ -1,6 +1,8 @@
-# covidapp
+# covid19app
 
-A new Flutter project.
+https://youtu.be/jsj5IFiQHZA 
+watch full video
+
 
 ## Getting Started
 
